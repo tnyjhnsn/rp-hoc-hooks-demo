@@ -1,4 +1,4 @@
-# rp-hoc-hooks-demo"
+# rp-hoc-hooks-demo
 
 React Render Props, HOC, and Hooks Demo
 
