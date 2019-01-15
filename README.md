@@ -1,3 +1,5 @@
 # rp-hoc-hooks-demo"
 
-Render Props, HOC, and Hooks Demo
+React Render Props, HOC, and Hooks Demo
+
+Demo [here](http://www.tosp.net.au/fcc/rp-hoc-hooks/).

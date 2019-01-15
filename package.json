@@ -2,6 +2,7 @@
   "name": "rp-hoc-hooks-demo",
   "version": "1.0.0",
   "description": "Render Props, HOC, and Hooks Demo",
+  "homepage": "http://www.tosp.net.au/fcc/rp-hoc-hooks-demo/",
   "main": "./src/index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
