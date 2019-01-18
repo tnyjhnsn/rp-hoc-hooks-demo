@@ -3,9 +3,10 @@ import Display from './Display'
 
 export default ({ currencyComponents }) => {
   const [value, setValue] = useState(0)
+  const display = { value, setValue }
   return (
     <Fragment>
-      <Display value={value} setValue={setValue} />
+      <Display {...display} />
       {currencyComponents.map((CurrencyComponent, i) => (
         <CurrencyComponent key={i} amount={value} />
       ))}
